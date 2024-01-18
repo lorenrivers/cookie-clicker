@@ -1,0 +1,58 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap");
+
+.cookie-btn {
+  background-color: transparent;
+  border: none;
+  font-size: 200px;
+}
+
+.cookie-btn:hover {
+  text-shadow: 5px 5px 10px #000000;
+}
+
+.clicker-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.total-cookies {
+  font-size: 50px;
+  font-weight: bold;
+  margin: 0;
+}
+
+.shop-container {
+  display: flex;
+  gap: 20px;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  color: white;
+  background-color: #6675ea;
+}
+
+.reset-btn {
+  border: 2px solid white;
+  padding: 10px;
+}
+
+.reset-btn:link {
+  color: white;
+  text-decoration: none;
+}
+
+.reset-btn:visited {
+  color: white;
+  text-decoration: none;
+}
+
+.reset-btn:hover {
+  color: #b2ebe7;
+}
+
+h1 {
+  font-size: 45px;
+}
