@@ -23,9 +23,15 @@
   margin: 0;
 }
 
+.cookies-per-second {
+  margin-top: 0;
+}
+
 .shop-container {
   display: flex;
-  gap: 20px;
+  justify-content: space-evenly;
+  align-items: center;
+  margin-top: 10px;
 }
 
 body {
@@ -55,4 +61,5 @@ body {
 
 h1 {
   font-size: 45px;
+  margin-bottom: 0;
 }
