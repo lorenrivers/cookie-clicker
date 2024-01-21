@@ -62,4 +62,5 @@ body {
 h1 {
   font-size: 45px;
   margin-bottom: 0;
+  text-shadow: 2px 0 #a2ebcd;
 }
